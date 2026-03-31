@@ -3,7 +3,7 @@
 # Descripción
 ### Se implementó una base Tensor en C++ que permite manejar arreglos de varias dimensiones usando memoria dinámica.
 # Lo que funciona
-+ Crea tensores con zeros, ones y arange.
++ Crea tensores con ```zeros```, ```ones``` y ```arange```.
 + Operaciones básicas: sumas, resta y multiplicación.
 + Uso de view para cambiar la forma.
 + Aplicar la función ReLU.
